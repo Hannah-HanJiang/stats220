@@ -1,6 +1,8 @@
-# *I use this code(meme) to make fun of recently petrol expensive price.*
+# Inspirations
+*I use this code(meme) to make fun of the expensive petrol price recently. This meme is created with [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)*
 
-## I used different fonts and pictures to express this emotion more dramatically compared with the original memes.:mask:
+## Innovations
+I used different fonts and pictures to express this emotion more dramatically compared with the original memes.:mask:
 - **[male and female together](https://filmdaily.co/wp-content/uploads/2021/07/perfumes-lede.jpg)**
 - **[only male](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQKSv0uJIQqh3mjA-iznOZ4YtQt2MG7yEqQw&usqp=CAU)**
 ```r
